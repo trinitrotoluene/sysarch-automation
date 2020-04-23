@@ -1,0 +1,2439 @@
+[
+  {
+    "host": "www.bris.ac.uk",
+    "ip": "137.222.0.37",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.187,
+        "ping2": 0.185,
+        "ping3": 0.18
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 1.088,
+        "ping2": 0.974,
+        "ping3": 0.972
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 2.457,
+        "ping2": 2.553,
+        "ping3": 2.672
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 2.318,
+        "ping2": 2.319,
+        "ping3": 2.315
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.818,
+        "ping2": 2.818,
+        "ping3": 2.809
+      },
+      {
+        "host": "ae1.brisub-rbr1.ja.net",
+        "ip": "146.97.67.37",
+        "ping1": 4.17,
+        "ping2": 3.614,
+        "ping3": 3.605
+      },
+      {
+        "host": "university-of-bristol.ja.net",
+        "ip": "146.97.144.2",
+        "ping1": 4.652,
+        "ping2": 4.748,
+        "ping3": 4.787
+      },
+      {
+        "host": "www.bris.ac.uk",
+        "ip": "137.222.0.37",
+        "ping1": 3.455,
+        "ping2": 3.486,
+        "ping3": 3.169
+      }
+    ]
+  },
+  {
+    "host": "www.cam.ac.uk",
+    "ip": "131.111.150.25",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.11,
+        "ping2": 0.145,
+        "ping3": 0.135
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 1.167,
+        "ping2": 1.167,
+        "ping3": 1.155
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.686,
+        "ping2": 1.783,
+        "ping3": 1.779
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.41,
+        "ping2": 1.408,
+        "ping3": 1.402
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.179,
+        "ping2": 2.176,
+        "ping3": 2.726
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 6.144,
+        "ping2": 5.51,
+        "ping3": 5.578
+      },
+      {
+        "host": "ae31.erdiss-sbr2.ja.net",
+        "ip": "146.97.33.22",
+        "ping1": 8.533,
+        "ping2": 8.417,
+        "ping3": 8.409
+      },
+      {
+        "host": "ae30.lowdss-sbr1.ja.net",
+        "ip": "146.97.33.26",
+        "ping1": 10.079,
+        "ping2": 10.16,
+        "ping3": 10.16
+      },
+      {
+        "host": "146.97.38.10",
+        "ip": "146.97.38.10",
+        "ping1": 11.489,
+        "ping2": 11.489,
+        "ping3": 11.477
+      },
+      {
+        "host": "146.97.65.106",
+        "ip": "146.97.65.106",
+        "ping1": 12.553,
+        "ping2": 12.903,
+        "ping3": 12.881
+      },
+      {
+        "host": "University-of-Cambridge.cambab-rbr1.eastern.ja.net",
+        "ip": "146.97.130.2",
+        "ping1": 13.721,
+        "ping2": 14.755,
+        "ping3": 14.626
+      },
+      {
+        "host": "d-dw.s-dw.net.cam.ac.uk",
+        "ip": "193.60.88.2",
+        "ping1": 14.608,
+        "ping2": 13.512,
+        "ping3": 13.864
+      },
+      {
+        "host": "d-dw.s-dw.net.cam.ac.uk",
+        "ip": "193.60.88.2",
+        "ping1": 13.069,
+        "ping2": 13.071,
+        "ping3": 13.104
+      },
+      {
+        "host": "outside.fw-srv.net.cam.ac.uk",
+        "ip": "128.232.128.6",
+        "ping1": 13.837,
+        "ping2": 18.314,
+        "ping3": 16.106
+      },
+      {
+        "host": "link-srv.uis.fw-srv.net.cam.ac.uk",
+        "ip": "128.232.129.2",
+        "ping1": 12.819,
+        "ping2": 13.037,
+        "ping3": 13.026
+      },
+      {
+        "host": "primary.admin.cam.ac.uk",
+        "ip": "131.111.150.25",
+        "ping1": 13.388,
+        "ping2": 13.498,
+        "ping3": 13.761
+      }
+    ]
+  },
+  {
+    "host": "www.ox.ac.uk",
+    "ip": "129.67.242.154",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.201,
+        "ping2": 0.199,
+        "ping3": 0.194
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.739,
+        "ping2": 0.738,
+        "ping3": 0.733
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.225,
+        "ping2": 1.345,
+        "ping3": 1.349
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.092,
+        "ping2": 1.089,
+        "ping3": 1.085
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 1.881,
+        "ping2": 1.977,
+        "ping3": 1.976
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.995,
+        "ping2": 4.888,
+        "ping3": 4.855
+      },
+      {
+        "host": "ae19.readdy-rbr1.ja.net",
+        "ip": "146.97.37.194",
+        "ping1": 5.068,
+        "ping2": 4.985,
+        "ping3": 4.949
+      },
+      {
+        "host": "ae2.oxfoii-rbr1.ja.net",
+        "ip": "193.63.108.94",
+        "ping1": 5.96,
+        "ping2": 5.933,
+        "ping3": 5.929
+      },
+      {
+        "host": "ae3.oxforq-rbr1.ja.net",
+        "ip": "193.63.108.98",
+        "ping1": 6.137,
+        "ping2": 6.17,
+        "ping3": 6.135
+      },
+      {
+        "host": "oxford-university.ja.net",
+        "ip": "193.63.109.90",
+        "ping1": 6.218,
+        "ping2": 6.059,
+        "ping3": 6.105
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "lompi1-boucs.sdc.ox.ac.uk",
+        "ip": "192.76.32.62",
+        "ping1": 6.523,
+        "ping2": 6.329,
+        "ping3": 6.322
+      },
+      {
+        "host": "aurochs-web-154.nsms.ox.ac.uk",
+        "ip": "129.67.242.154",
+        "ping1": 6.576,
+        "ping2": 6.473,
+        "ping3": 6.266
+      }
+    ]
+  },
+  {
+    "host": "www.ed.ac.uk",
+    "ip": "129.215.228.101",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.194,
+        "ping2": 0.196,
+        "ping3": 0.193
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.814,
+        "ping2": 0.816,
+        "ping3": 0.813
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.504,
+        "ping2": 1.393,
+        "ping3": 1.396
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.087,
+        "ping2": 1.092,
+        "ping3": 1.084
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.051,
+        "ping2": 2.039,
+        "ping3": 2.041
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.462,
+        "ping2": 4.272,
+        "ping3": 4.224
+      },
+      {
+        "host": "ae31.erdiss-sbr2.ja.net",
+        "ip": "146.97.33.22",
+        "ping1": 8.008,
+        "ping2": 7.942,
+        "ping3": 8.073
+      },
+      {
+        "host": "ae30.lowdss-sbr1.ja.net",
+        "ip": "146.97.33.26",
+        "ping1": 9.804,
+        "ping2": 9.798,
+        "ping3": 9.788
+      },
+      {
+        "host": "ae29.leedaq-sbr1.ja.net",
+        "ip": "146.97.33.49",
+        "ping1": 11.441,
+        "ping2": 11.418,
+        "ping3": 11.417
+      },
+      {
+        "host": "eastman.leedaq-sbr1.ja.net",
+        "ip": "146.97.41.34",
+        "ping1": 15.265,
+        "ping2": 15.112,
+        "ping3": 15.105
+      },
+      {
+        "host": "vlan687.kb9.net.ed.ac.uk",
+        "ip": "194.81.57.209",
+        "ping1": 15.449,
+        "ping2": 15.521,
+        "ping3": 15.481
+      },
+      {
+        "host": "edwc.is.ed.ac.uk",
+        "ip": "129.215.228.101",
+        "ping1": 15.434,
+        "ping2": 15.35,
+        "ping3": 15.595
+      }
+    ]
+  },
+  {
+    "host": "www.ucalgary.ca",
+    "ip": "136.159.96.125",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.168,
+        "ping2": 0.164,
+        "ping3": 0.159
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.807,
+        "ping2": 0.808,
+        "ping3": 0.797
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.218,
+        "ping2": 1.524,
+        "ping3": 1.524
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 13.179,
+        "ping2": 13.249,
+        "ping3": 13.42
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 1.924,
+        "ping2": 2.1,
+        "ping3": 2.086
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.383,
+        "ping2": 4.257,
+        "ping3": 4.215
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 4.791,
+        "ping2": 4.719,
+        "ping3": 4.684
+      },
+      {
+        "host": "janet.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.197",
+        "ping1": 4.859,
+        "ping2": 4.663,
+        "ping3": 4.631
+      },
+      {
+        "host": "canarie.lon.uk.geant.net",
+        "ip": "62.40.124.242",
+        "ping1": 95.569,
+        "ping2": 95.556,
+        "ping3": 95.524
+      },
+      {
+        "host": "wnpg1rtr1.canarie.ca",
+        "ip": "205.189.32.180",
+        "ping1": 116.414,
+        "ping2": 116.227,
+        "ping3": 116.672
+      },
+      {
+        "host": "clgr2rtr1.canarie.ca",
+        "ip": "205.189.32.176",
+        "ping1": 131.02,
+        "ping2": 130.728,
+        "ping3": 130.811
+      },
+      {
+        "host": "cgy-mx-r.cybera.ca",
+        "ip": "205.189.32.213",
+        "ping1": 130.789,
+        "ping2": 130.594,
+        "ping3": 130.751
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "h77.gpvpn.ucalgary.ca",
+        "ip": "136.159.199.77",
+        "ping1": 130.926,
+        "ping2": 130.701,
+        "ping3": 130.656
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "www.ucalgary.ca",
+        "ip": "136.159.96.125",
+        "ping1": 130.912,
+        "ping2": 131.125,
+        "ping3": 130.907
+      }
+    ]
+  },
+  {
+    "host": "www.viu.ca",
+    "ip": "162.209.41.125",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.127,
+        "ping2": 0.16,
+        "ping3": 0.156
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 1.049,
+        "ping2": 0.884,
+        "ping3": 0.882
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 14.128,
+        "ping2": 14.082,
+        "ping3": 13.928
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.391,
+        "ping2": 1.37,
+        "ping3": 1.358
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.16,
+        "ping2": 2.184,
+        "ping3": 2.127
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.689,
+        "ping2": 4.335,
+        "ping3": 4.308
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 4.665,
+        "ping2": 4.661,
+        "ping3": 4.645
+      },
+      {
+        "host": "ae0.londhx-ban2.ja.net",
+        "ip": "146.97.35.198",
+        "ping1": 4.724,
+        "ping2": 4.708,
+        "ping3": 4.682
+      },
+      {
+        "host": "ldn-b3-link.telia.net",
+        "ip": "62.115.148.158",
+        "ping1": 6.88,
+        "ping2": 4.771,
+        "ping3": 6.853
+      },
+      {
+        "host": "ldn-bb3-link.telia.net",
+        "ip": "62.115.136.42",
+        "ping1": 4.851,
+        "ping2": 4.786,
+        "ping3": 4.786
+      },
+      {
+        "host": "nyk-bb1-link.telia.net",
+        "ip": "213.155.135.69",
+        "ping1": 84.547,
+        "ping2": 74.818,
+        "ping3": 84.248
+      },
+      {
+        "host": "chi-b21-link.telia.net",
+        "ip": "62.115.124.253",
+        "ping1": 97.687,
+        "ping2": 97.49,
+        "ping3": 98.095
+      },
+      {
+        "host": "rackspace-ic-134354-chi-b21.c.telia.net",
+        "ip": "80.239.160.50",
+        "ping1": 97.441,
+        "ping2": 98.025,
+        "ping3": 97.871
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "173.203.0.131",
+        "ip": "173.203.0.131",
+        "ping1": 98.873,
+        "ping2": 98.376,
+        "ping3": 98.456
+      },
+      {
+        "host": "coreb-core2.ord1.rackspace.net",
+        "ip": "184.106.126.131",
+        "ping1": 98.225,
+        "ping2": 97.827,
+        "ping3": 98.336
+      },
+      {
+        "host": "core1-aggr601a-16.ord1.rackspace.net",
+        "ip": "161.47.11.161",
+        "ping1": 97.927,
+        "ping2": 97.852,
+        "ping3": 98.081
+      },
+      {
+        "host": "162.209.41.125",
+        "ip": "162.209.41.125",
+        "ping1": 97.913,
+        "ping2": 97.146,
+        "ping3": 97.113
+      }
+    ]
+  },
+  {
+    "host": "www.cuny.edu",
+    "ip": "128.228.38.47",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.192,
+        "ping2": 0.189,
+        "ping3": 0.183
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 1.259,
+        "ping2": 1.248,
+        "ping3": 1.468
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 2.598,
+        "ping2": 2.792,
+        "ping3": 2.79
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 2.267,
+        "ping2": 2.267,
+        "ping3": 2.263
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 3.302,
+        "ping2": 3.297,
+        "ping3": 3.291
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 5.457,
+        "ping2": 5.796,
+        "ping3": 5.648
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 39.877,
+        "ping2": 39.871,
+        "ping3": 5.812
+      },
+      {
+        "host": "janet.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.197",
+        "ping1": 5.785,
+        "ping2": 5.874,
+        "ping3": 5.965
+      },
+      {
+        "host": "internet2-gw.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.45",
+        "ping1": 79.603,
+        "ping2": 79.635,
+        "ping3": 79.592
+      },
+      {
+        "host": "nyc-9208-I2-WASH.nysernet.net",
+        "ip": "199.109.5.25",
+        "ping1": 87.864,
+        "ping2": 87.766,
+        "ping3": 87.727
+      },
+      {
+        "host": "cuny-nyc-9208.nysernet.net",
+        "ip": "199.109.4.34",
+        "ping1": 87.7,
+        "ping2": 87.852,
+        "ping3": 87.833
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "web.cuny.edu",
+        "ip": "128.228.38.47",
+        "ping1": 89.278,
+        "ping2": 88.506,
+        "ping3": 88.978
+      }
+    ]
+  },
+  {
+    "host": "www.utah.edu",
+    "ip": "155.97.137.55",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.164,
+        "ping2": 0.199,
+        "ping3": 0.197
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.872,
+        "ping2": 0.857,
+        "ping3": 0.857
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.763,
+        "ping2": 1.605,
+        "ping3": 1.755
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 4.411,
+        "ping2": 4.413,
+        "ping3": 4.408
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 1.958,
+        "ping2": 2.088,
+        "ping3": 1.948
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.377,
+        "ping2": 4.413,
+        "ping3": 4.381
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 4.719,
+        "ping2": 4.826,
+        "ping3": 4.694
+      },
+      {
+        "host": "janet.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.197",
+        "ping1": 15.482,
+        "ping2": 15.468,
+        "ping3": 14.668
+      },
+      {
+        "host": "internet2-gw.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.45",
+        "ping1": 79.493,
+        "ping2": 79.464,
+        "ping3": 79.47
+      },
+      {
+        "host": "et-7-1-0.4070.rtsw.chic.net.internet2.edu",
+        "ip": "198.71.45.56",
+        "ping1": 96.386,
+        "ping2": 96.466,
+        "ping3": 96.433
+      },
+      {
+        "host": "et-5-0-0.4070.rtsw.kans.net.internet2.edu",
+        "ip": "198.71.45.15",
+        "ping1": 107.436,
+        "ping2": 107.373,
+        "ping3": 107.33
+      },
+      {
+        "host": "et-4-1-0.4070.rtsw.salt.net.internet2.edu",
+        "ip": "198.71.45.19",
+        "ping1": 127.242,
+        "ping2": 127.711,
+        "ping3": 127.698
+      },
+      {
+        "host": "198.71.45.231",
+        "ip": "198.71.45.231",
+        "ping1": 127.657,
+        "ping2": 129.07,
+        "ping3": 129.034
+      },
+      {
+        "host": "140.197.253.23",
+        "ip": "140.197.253.23",
+        "ping1": 128.111,
+        "ping2": 128.19,
+        "ping3": 128.147
+      },
+      {
+        "host": "140.197.253.139",
+        "ip": "140.197.253.139",
+        "ping1": 128.113,
+        "ping2": 128.109,
+        "ping3": 128.255
+      },
+      {
+        "host": "199.104.93.117",
+        "ip": "199.104.93.117",
+        "ping1": 127.771,
+        "ping2": 127.951,
+        "ping3": 128.203
+      },
+      {
+        "host": "199.104.93.102",
+        "ip": "199.104.93.102",
+        "ping1": 128.461,
+        "ping2": 128.463,
+        "ping3": 128.678
+      },
+      {
+        "host": "155.99.130.57",
+        "ip": "155.99.130.57",
+        "ping1": 128.401,
+        "ping2": 128.578,
+        "ping3": 128.543
+      },
+      {
+        "host": "155.99.130.107",
+        "ip": "155.99.130.107",
+        "ping1": 129.098,
+        "ping2": 129.232,
+        "ping3": 128.564
+      },
+      {
+        "host": "www6.test.utah.edu",
+        "ip": "155.97.137.55",
+        "ping1": 128.127,
+        "ping2": 128.262,
+        "ping3": 128.208
+      }
+    ]
+  },
+  {
+    "host": "www.ucsb.edu",
+    "ip": "128.111.24.41",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.191,
+        "ping2": 0.191,
+        "ping3": 0.187
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.834,
+        "ping2": 0.82,
+        "ping3": 0.823
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.577,
+        "ping2": 1.649,
+        "ping3": 1.772
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.398,
+        "ping2": 1.382,
+        "ping3": 1.386
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.233,
+        "ping2": 2.222,
+        "ping3": 2.209
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.813,
+        "ping2": 4.396,
+        "ping3": 4.368
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 5.11,
+        "ping2": 5.178,
+        "ping3": 4.951
+      },
+      {
+        "host": "janet.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.197",
+        "ping1": 4.649,
+        "ping2": 4.789,
+        "ping3": 4.78
+      },
+      {
+        "host": "internet2-gw.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.45",
+        "ping1": 79.653,
+        "ping2": 79.464,
+        "ping3": 79.423
+      },
+      {
+        "host": "et-7-3-0.4072.rtsw.atla.net.internet2.edu",
+        "ip": "198.71.45.6",
+        "ping1": 92.131,
+        "ping2": 92.099,
+        "ping3": 92.217
+      },
+      {
+        "host": "et-10-2-0.105.rtr.hous.net.internet2.edu",
+        "ip": "198.71.45.13",
+        "ping1": 116.526,
+        "ping2": 116.391,
+        "ping3": 116.356
+      },
+      {
+        "host": "et-7-1-0.4070.rtsw.losa.net.internet2.edu",
+        "ip": "198.71.45.21",
+        "ping1": 148.226,
+        "ping2": 148.482,
+        "ping3": 148.438
+      },
+      {
+        "host": "137.164.26.200",
+        "ip": "137.164.26.200",
+        "ping1": 148.43,
+        "ping2": 148.418,
+        "ping3": 148.407
+      },
+      {
+        "host": "ucsb--lax-hpr3-100ge.cenic.net",
+        "ip": "137.164.26.238",
+        "ping1": 150.545,
+        "ping2": 150.748,
+        "ping3": 150.694
+      },
+      {
+        "host": "r2--r1--1.commserv.ucsb.edu",
+        "ip": "128.111.252.169",
+        "ping1": 150.67,
+        "ping2": 150.648,
+        "ping3": 150.682
+      },
+      {
+        "host": "574-c--r2--2.commserv.ucsb.edu",
+        "ip": "128.111.252.149",
+        "ping1": 151.061,
+        "ping2": 151.303,
+        "ping3": 151.266
+      },
+      {
+        "host": "web.ucsb.edu",
+        "ip": "128.111.24.41",
+        "ping1": 150.708,
+        "ping2": 150.604,
+        "ping3": 150.555
+      }
+    ]
+  },
+  {
+    "host": "www.hawaii.edu",
+    "ip": "128.171.224.100",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.134,
+        "ping2": 0.124,
+        "ping3": 0.117
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.649,
+        "ping2": 0.648,
+        "ping3": 0.643
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.123,
+        "ping2": 1.244,
+        "ping3": 1.273
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 0.868,
+        "ping2": 0.832,
+        "ping3": 0.86
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 1.778,
+        "ping2": 1.779,
+        "ping3": 1.939
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.269,
+        "ping2": 4.147,
+        "ping3": 4.128
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 4.546,
+        "ping2": 4.549,
+        "ping3": 4.558
+      },
+      {
+        "host": "janet.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.197",
+        "ping1": 4.732,
+        "ping2": 4.642,
+        "ping3": 4.704
+      },
+      {
+        "host": "internet2-gw.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.45",
+        "ping1": 80.586,
+        "ping2": 79.647,
+        "ping3": 79.634
+      },
+      {
+        "host": "et-7-3-0.4072.rtsw.atla.net.internet2.edu",
+        "ip": "198.71.45.6",
+        "ping1": 91.973,
+        "ping2": 92.052,
+        "ping3": 92.012
+      },
+      {
+        "host": "et-10-2-0.105.rtr.hous.net.internet2.edu",
+        "ip": "198.71.45.13",
+        "ping1": 115.975,
+        "ping2": 115.916,
+        "ping3": 116.571
+      },
+      {
+        "host": "et-7-1-0.4070.rtsw.losa.net.internet2.edu",
+        "ip": "198.71.45.21",
+        "ping1": 148.393,
+        "ping2": 148.236,
+        "ping3": 148.207
+      },
+      {
+        "host": "xe-0-0-0-3510-poha-re0.uhnet.net",
+        "ip": "205.166.205.12",
+        "ping1": 212.181,
+        "ping2": 212.174,
+        "ping3": 210.857
+      },
+      {
+        "host": "xe-1-1-0-64-kolanut-re0.uhnet.net",
+        "ip": "205.166.205.39",
+        "ping1": 197.123,
+        "ping2": 196.938,
+        "ping3": 205.1
+      },
+      {
+        "host": "vl-669-xe-1-0-10-10gigcolol3.uhnet.net",
+        "ip": "128.171.213.2",
+        "ping1": 198.014,
+        "ping2": 198.126,
+        "ping3": 197.965
+      },
+      {
+        "host": "pat01.its.hawaii.edu",
+        "ip": "128.171.1.2",
+        "ping1": 196.91,
+        "ping2": 197.004,
+        "ping3": 196.972
+      },
+      {
+        "host": "web00.its.hawaii.edu",
+        "ip": "128.171.224.100",
+        "ping1": 197.277,
+        "ping2": 196.944,
+        "ping3": 196.914
+      },
+      {
+        "host": "web00.its.hawaii.edu",
+        "ip": "128.171.224.100",
+        "ping1": 197.464,
+        "ping2": 197.321,
+        "ping3": 196.944
+      }
+    ]
+  },
+  {
+    "host": "www.canterbury.ac.nz",
+    "ip": "132.181.106.1",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.237,
+        "ping2": 0.233,
+        "ping3": 0.23
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.783,
+        "ping2": 0.769,
+        "ping3": 0.874
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 2.193,
+        "ping2": 1.999,
+        "ping3": 2.186
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 31.273,
+        "ping2": 31.243,
+        "ping3": 31.249
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.404,
+        "ping2": 2.405,
+        "ping3": 2.401
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.751,
+        "ping2": 4.337,
+        "ping3": 4.303
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 4.847,
+        "ping2": 4.84,
+        "ping3": 4.743
+      },
+      {
+        "host": "janet.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.197",
+        "ping1": 4.809,
+        "ping2": 4.784,
+        "ping3": 4.615
+      },
+      {
+        "host": "internet2-gw.mx1.lon.uk.geant.net",
+        "ip": "62.40.124.45",
+        "ping1": 79.345,
+        "ping2": 79.34,
+        "ping3": 79.329
+      },
+      {
+        "host": "et-7-3-0.4072.rtsw.atla.net.internet2.edu",
+        "ip": "198.71.45.6",
+        "ping1": 92.208,
+        "ping2": 92.199,
+        "ping3": 92.199
+      },
+      {
+        "host": "et-10-2-0.105.rtr.hous.net.internet2.edu",
+        "ip": "198.71.45.13",
+        "ping1": 115.956,
+        "ping2": 115.891,
+        "ping3": 115.87
+      },
+      {
+        "host": "et-7-1-0.4070.rtsw.losa.net.internet2.edu",
+        "ip": "198.71.45.21",
+        "ping1": 148.285,
+        "ping2": 148.255,
+        "ping3": 148.242
+      },
+      {
+        "host": "aarnet-1-lo-jmb-702.lsanca.pacificwave.net",
+        "ip": "207.231.240.149",
+        "ping1": 148.304,
+        "ping2": 148.471,
+        "ping3": 148.357
+      },
+      {
+        "host": "et-1-2-1.pe1.a.koa.aarnet.net.au",
+        "ip": "113.197.15.86",
+        "ping1": 194.506,
+        "ping2": 194.593,
+        "ping3": 194.549
+      },
+      {
+        "host": "et-1-0-0.pe1.tkpa.akl.aarnet.net.au",
+        "ip": "113.197.15.84",
+        "ping1": 306.984,
+        "ping2": 307.012,
+        "ping3": 306.968
+      },
+      {
+        "host": "et-1-0-0-202.and12-nsh.reannz.co.nz",
+        "ip": "182.255.119.201",
+        "ping1": 306.903,
+        "ping2": 306.908,
+        "ping3": 307.083
+      },
+      {
+        "host": "210.7.37.209",
+        "ip": "210.7.37.209",
+        "ping1": 320.929,
+        "ping2": 322.546,
+        "ping3": 322.501
+      },
+      {
+        "host": "210.7.37.210",
+        "ip": "210.7.37.210",
+        "ping1": 321.274,
+        "ping2": 321.259,
+        "ping3": 321.211
+      },
+      {
+        "host": "202.36.179.100",
+        "ip": "202.36.179.100",
+        "ping1": 321.67,
+        "ping2": 321.942,
+        "ping3": 322.158
+      },
+      {
+        "host": "132.181.3.236",
+        "ip": "132.181.3.236",
+        "ping1": 324.378,
+        "ping2": 323.115,
+        "ping3": 0
+      },
+      {
+        "host": "132.181.106.1",
+        "ip": "132.181.106.1",
+        "ping1": 322.276,
+        "ping2": 322.437,
+        "ping3": 322.276
+      }
+    ]
+  },
+  {
+    "host": "www.google.com",
+    "ip": "216.58.213.68",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.149,
+        "ping2": 0.182,
+        "ping3": 0.176
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 1.181,
+        "ping2": 1.184,
+        "ping3": 1.118
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.85,
+        "ping2": 1.85,
+        "ping3": 1.627
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.38,
+        "ping2": 1.379,
+        "ping3": 1.358
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.663,
+        "ping2": 2.649,
+        "ping3": 2.646
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 5.312,
+        "ping2": 4.615,
+        "ping3": 4.596
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 59.817,
+        "ping2": 5.247,
+        "ping3": 5.221
+      },
+      {
+        "host": "193.62.157.22",
+        "ip": "193.62.157.22",
+        "ping1": 17.793,
+        "ping2": 15.769,
+        "ping3": 15.752
+      },
+      {
+        "host": "108.170.246.161",
+        "ip": "108.170.246.161",
+        "ping1": 5.174,
+        "ping2": 5.181,
+        "ping3": 5.131
+      },
+      {
+        "host": "216.239.57.115",
+        "ip": "216.239.57.115",
+        "ping1": 5.131,
+        "ping2": 5.05,
+        "ping3": 5.029
+      },
+      {
+        "host": "lhr25s01-in-f4.1e100.net",
+        "ip": "216.58.213.68",
+        "ping1": 5.254,
+        "ping2": 4.833,
+        "ping3": 4.817
+      }
+    ]
+  },
+  {
+    "host": "www.google.co.uk",
+    "ip": "216.58.198.163",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.207,
+        "ping2": 0.204,
+        "ping3": 0.196
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 1.15,
+        "ping2": 1.149,
+        "ping3": 1.142
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 2.013,
+        "ping2": 1.999,
+        "ping3": 1.869
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.634,
+        "ping2": 1.634,
+        "ping3": 1.627
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.65,
+        "ping2": 2.695,
+        "ping3": 2.693
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 5.163,
+        "ping2": 4.733,
+        "ping3": 4.714
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 5.273,
+        "ping2": 5.704,
+        "ping3": 4.982
+      },
+      {
+        "host": "193.62.157.22",
+        "ip": "193.62.157.22",
+        "ping1": 5.053,
+        "ping2": 13.268,
+        "ping3": 13.26
+      },
+      {
+        "host": "108.170.246.161",
+        "ip": "108.170.246.161",
+        "ping1": 5.306,
+        "ping2": 5.297,
+        "ping3": 5.298
+      },
+      {
+        "host": "108.170.232.97",
+        "ip": "108.170.232.97",
+        "ping1": 5.596,
+        "ping2": 6.494,
+        "ping3": 6.487
+      },
+      {
+        "host": "lhr25s10-in-f163.1e100.net",
+        "ip": "216.58.198.163",
+        "ping1": 6.23,
+        "ping2": 5.276,
+        "ping3": 4.911
+      }
+    ]
+  },
+  {
+    "host": "lax17s15-in-f78.1e100.net",
+    "ip": "172.217.5.78",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.19,
+        "ping2": 0.186,
+        "ping3": 0.179
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.865,
+        "ping2": 0.865,
+        "ping3": 0.862
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 3.037,
+        "ping2": 3.363,
+        "ping3": 3.081
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.17,
+        "ping2": 1.166,
+        "ping3": 1.149
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 1.993,
+        "ping2": 2.174,
+        "ping3": 2.161
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.523,
+        "ping2": 4.226,
+        "ping3": 4.189
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 4.62,
+        "ping2": 4.699,
+        "ping3": 4.673
+      },
+      {
+        "host": "193.62.157.22",
+        "ip": "193.62.157.22",
+        "ping1": 5.263,
+        "ping2": 5.336,
+        "ping3": 5.255
+      },
+      {
+        "host": "216.239.59.169",
+        "ip": "216.239.59.169",
+        "ping1": 4.908,
+        "ping2": 5.026,
+        "ping3": 16.9
+      },
+      {
+        "host": "216.239.58.3",
+        "ip": "216.239.58.3",
+        "ping1": 5.904,
+        "ping2": 5.736,
+        "ping3": 5.917
+      },
+      {
+        "host": "216.239.42.223",
+        "ip": "216.239.42.223",
+        "ping1": 81.889,
+        "ping2": 81.041,
+        "ping3": 80.276
+      },
+      {
+        "host": "209.85.253.248",
+        "ip": "209.85.253.248",
+        "ping1": 94.859,
+        "ping2": 94.486,
+        "ping3": 95.44
+      },
+      {
+        "host": "72.14.232.70",
+        "ip": "72.14.232.70",
+        "ping1": 106.652,
+        "ping2": 104.06,
+        "ping3": 107.108
+      },
+      {
+        "host": "209.85.251.139",
+        "ip": "209.85.251.139",
+        "ping1": 116.015,
+        "ping2": 114.297,
+        "ping3": 115.268
+      },
+      {
+        "host": "216.239.49.14",
+        "ip": "216.239.49.14",
+        "ping1": 139.349,
+        "ping2": 139.323,
+        "ping3": 138.958
+      },
+      {
+        "host": "209.85.247.0",
+        "ip": "209.85.247.0",
+        "ping1": 140.783,
+        "ping2": 140.716,
+        "ping3": 139.47
+      },
+      {
+        "host": "108.170.247.193",
+        "ip": "108.170.247.193",
+        "ping1": 139.519,
+        "ping2": 139.363,
+        "ping3": 139.362
+      },
+      {
+        "host": "108.170.237.113",
+        "ip": "108.170.237.113",
+        "ping1": 139.525,
+        "ping2": 140.258,
+        "ping3": 139.306
+      },
+      {
+        "host": "lax17s15-in-f14.1e100.net",
+        "ip": "172.217.5.78",
+        "ping1": 139.494,
+        "ping2": 141.462,
+        "ping3": 138.14
+      }
+    ]
+  },
+  {
+    "host": "www.yahoo.co.uk",
+    "ip": "217.12.15.37",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.196,
+        "ping2": 0.188,
+        "ping3": 0.182
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 1.295,
+        "ping2": 1.276,
+        "ping3": 1.283
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 2.832,
+        "ping2": 2.604,
+        "ping3": 2.882
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 2.159,
+        "ping2": 2.145,
+        "ping3": 2.356
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 4.116,
+        "ping2": 4.212,
+        "ping3": 4.241
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 5.638,
+        "ping2": 4.711,
+        "ping3": 4.737
+      },
+      {
+        "host": "ae30.londtw-sbr2.ja.net",
+        "ip": "146.97.33.6",
+        "ping1": 5.11,
+        "ping2": 5.445,
+        "ping3": 5.43
+      },
+      {
+        "host": "ae29.londtn-sbr1.ja.net",
+        "ip": "146.97.33.10",
+        "ping1": 5.419,
+        "ping2": 5.647,
+        "ping3": 5.55
+      },
+      {
+        "host": "ae0.londtn-ban3.ja.net",
+        "ip": "146.97.35.170",
+        "ping1": 5.5,
+        "ping2": 5.613,
+        "ping3": 5.524
+      },
+      {
+        "host": "ge-1-1-0.pat1.the.yahoo.com",
+        "ip": "195.66.224.129",
+        "ping1": 5.381,
+        "ping2": 5.334,
+        "ping3": 5.328
+      },
+      {
+        "host": "ae6.pat2.iry.yahoo.com",
+        "ip": "66.196.68.153",
+        "ping1": 13.941,
+        "ping2": 14.01,
+        "ping3": 13.998
+      },
+      {
+        "host": "et-11-1-0.msr1.ir2.yahoo.com",
+        "ip": "66.196.65.23",
+        "ping1": 13.982,
+        "ping2": 14.188,
+        "ping3": 14.17
+      },
+      {
+        "host": "UNKNOWN-77-238-186-X.yahoo.com",
+        "ip": "77.238.186.3",
+        "ping1": 14.838,
+        "ping2": 14.837,
+        "ping3": 14.832
+      },
+      {
+        "host": "media-router-rc1.prod.media.vip.ir2.yahoo.com",
+        "ip": "217.12.15.37",
+        "ping1": 13.948,
+        "ping2": 14.117,
+        "ping3": 14.256
+      }
+    ]
+  },
+  {
+    "host": "www.channel4.tv",
+    "ip": "185.28.202.30",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.211,
+        "ping2": 0.209,
+        "ping3": 0.204
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.795,
+        "ping2": 0.796,
+        "ping3": 0.787
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.395,
+        "ping2": 1.508,
+        "ping3": 1.589
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.223,
+        "ping2": 1.211,
+        "ping3": 1.344
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.08,
+        "ping2": 2.107,
+        "ping3": 2.105
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 10.478,
+        "ping2": 9.45,
+        "ping3": 9.408
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 4.678,
+        "ping2": 4.678,
+        "ping3": 4.592
+      },
+      {
+        "host": "ae0.londhx-ban2.ja.net",
+        "ip": "146.97.35.198",
+        "ping1": 4.989,
+        "ping2": 4.957,
+        "ping3": 4.958
+      },
+      {
+        "host": "ldn-b3-link.telia.net",
+        "ip": "62.115.148.158",
+        "ping1": 6.628,
+        "ping2": 4.873,
+        "ping3": 4.844
+      },
+      {
+        "host": "ldn-bb3-link.telia.net",
+        "ip": "62.115.124.202",
+        "ping1": 4.721,
+        "ping2": 4.791,
+        "ping3": 37.749
+      },
+      {
+        "host": "ldn-b7-link.telia.net",
+        "ip": "213.155.136.63",
+        "ping1": 4.877,
+        "ping2": 4.945,
+        "ping3": 4.833
+      },
+      {
+        "host": "ae-11.r02.londen03.uk.bb.gin.ntt.net",
+        "ip": "213.248.100.50",
+        "ping1": 6.403,
+        "ping2": 8.088,
+        "ping3": 8.07
+      },
+      {
+        "host": "ae-25.r00.londen10.uk.bb.gin.ntt.net",
+        "ip": "129.250.4.130",
+        "ping1": 5.455,
+        "ping2": 5.218,
+        "ping3": 5.248
+      },
+      {
+        "host": "82.112.101.98",
+        "ip": "82.112.101.98",
+        "ping1": 4.999,
+        "ping2": 5.094,
+        "ping3": 5.524
+      },
+      {
+        "host": "tfm20-dist-3750e-b.ioko.net",
+        "ip": "83.98.99.18",
+        "ping1": 8.237,
+        "ping2": 7.381,
+        "ping3": 7.667
+      },
+      {
+        "host": "83.98.0.83",
+        "ip": "83.98.0.83",
+        "ping1": 9.524,
+        "ping2": 9.493,
+        "ping3": 9.62
+      },
+      {
+        "host": "channel4.com",
+        "ip": "185.28.202.30",
+        "ping1": 9.447,
+        "ping2": 9.996,
+        "ping3": 9.585
+      }
+    ]
+  },
+  {
+    "host": "twitch.tv",
+    "ip": "50.112.196.159",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.198,
+        "ping2": 0.198,
+        "ping3": 0.193
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.693,
+        "ping2": 0.692,
+        "ping3": 0.688
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.17,
+        "ping2": 1.296,
+        "ping3": 1.357
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 0.988,
+        "ping2": 0.976,
+        "ping3": 0.977
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 1.902,
+        "ping2": 1.936,
+        "ping3": 1.932
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 10.386,
+        "ping2": 9.363,
+        "ping3": 9.338
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 23.581,
+        "ping2": 22.393,
+        "ping3": 22.359
+      },
+      {
+        "host": "ae0.londhx-ban2.ja.net",
+        "ip": "146.97.35.198",
+        "ping1": 4.679,
+        "ping2": 4.671,
+        "ping3": 4.654
+      },
+      {
+        "host": "ldn-b3-link.telia.net",
+        "ip": "62.115.148.158",
+        "ping1": 4.644,
+        "ping2": 4.875,
+        "ping3": 4.808
+      },
+      {
+        "host": "ldn-bb3-link.telia.net",
+        "ip": "62.115.124.202",
+        "ping1": 4.714,
+        "ping2": 4.814,
+        "ping3": 4.787
+      },
+      {
+        "host": "nyk-bb4-link.telia.net",
+        "ip": "62.115.135.110",
+        "ping1": 74.102,
+        "ping2": 74.598,
+        "ping3": 0
+      },
+      {
+        "host": "chi-b21-link.telia.net",
+        "ip": "62.115.124.249",
+        "ping1": 98.353,
+        "ping2": 96.759,
+        "ping3": 96.816
+      },
+      {
+        "host": "sea-b1-link.telia.net",
+        "ip": "62.115.117.48",
+        "ping1": 139.228,
+        "ping2": 139.452,
+        "ping3": 139.062
+      },
+      {
+        "host": "amazon-ic-307564-sea-b1.c.telia.net",
+        "ip": "62.115.46.2",
+        "ping1": 139.04,
+        "ping2": 139.381,
+        "ping3": 140.781
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "ec2-50-112-196-159.us-west-2.compute.amazonaws.com",
+        "ip": "50.112.196.159",
+        "ping1": 145.924,
+        "ping2": 147.125,
+        "ping3": 146.129
+      }
+    ]
+  },
+  {
+    "host": "www.to",
+    "ip": "192.254.189.127",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.163,
+        "ping2": 0.16,
+        "ping3": 0.155
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.759,
+        "ping2": 0.76,
+        "ping3": 0.754
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.189,
+        "ping2": 1.422,
+        "ping3": 1.534
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.037,
+        "ping2": 1.038,
+        "ping3": 1.034
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 1.994,
+        "ping2": 1.989,
+        "ping3": 1.984
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 5.042,
+        "ping2": 4.154,
+        "ping3": 4.225
+      },
+      {
+        "host": "ae29.londhx-sbr1.ja.net",
+        "ip": "146.97.33.1",
+        "ping1": 4.593,
+        "ping2": 4.655,
+        "ping3": 4.617
+      },
+      {
+        "host": "ae0.londhx-ban2.ja.net",
+        "ip": "146.97.35.198",
+        "ping1": 4.865,
+        "ping2": 4.836,
+        "ping3": 4.807
+      },
+      {
+        "host": "ldn-b3-link.telia.net",
+        "ip": "62.115.148.158",
+        "ping1": 4.652,
+        "ping2": 4.736,
+        "ping3": 4.743
+      },
+      {
+        "host": "ldn-bb2-link.telia.net",
+        "ip": "62.115.134.138",
+        "ping1": 26.938,
+        "ping2": 4.965,
+        "ping3": 4.719
+      },
+      {
+        "host": "ldn-b7-link.telia.net",
+        "ip": "80.91.248.89",
+        "ping1": 5.22,
+        "ping2": 4.744,
+        "ping3": 4.702
+      },
+      {
+        "host": "ae-11.r02.londen03.uk.bb.gin.ntt.net",
+        "ip": "213.248.100.50",
+        "ping1": 5.252,
+        "ping2": 5.236,
+        "ping3": 5.253
+      },
+      {
+        "host": "ae-3.r24.londen12.uk.bb.gin.ntt.net",
+        "ip": "129.250.4.23",
+        "ping1": 5.375,
+        "ping2": 5.367,
+        "ping3": 5.465
+      },
+      {
+        "host": "ae-5.r24.nycmny01.us.bb.gin.ntt.net",
+        "ip": "129.250.2.18",
+        "ping1": 72.706,
+        "ping2": 72.739,
+        "ping3": 71.729
+      },
+      {
+        "host": "ae-2.r20.sttlwa01.us.bb.gin.ntt.net",
+        "ip": "129.250.4.13",
+        "ping1": 145.52,
+        "ping2": 141.869,
+        "ping3": 142.071
+      },
+      {
+        "host": "ae-0.r21.sttlwa01.us.bb.gin.ntt.net",
+        "ip": "129.250.2.54",
+        "ping1": 135.794,
+        "ping2": 137.973,
+        "ping3": 134.936
+      },
+      {
+        "host": "ae-3.r23.snjsca04.us.bb.gin.ntt.net",
+        "ip": "129.250.3.124",
+        "ping1": 163.126,
+        "ping2": 163.072,
+        "ping3": 168.344
+      },
+      {
+        "host": "ae-45.r01.snjsca04.us.bb.gin.ntt.net",
+        "ip": "129.250.3.175",
+        "ping1": 152.902,
+        "ping2": 153.084,
+        "ping3": 150.927
+      },
+      {
+        "host": "ae-0.endurance.snjsca04.us.bb.gin.ntt.net",
+        "ip": "129.250.195.138",
+        "ping1": 154.605,
+        "ping2": 162.079,
+        "ping3": 154.133
+      },
+      {
+        "host": "162-144-240-153.unifiedlayer.com",
+        "ip": "162.144.240.153",
+        "ping1": 154.986,
+        "ping2": 154.84,
+        "ping3": 149.534
+      },
+      {
+        "host": "162-144-240-123.unifiedlayer.com",
+        "ip": "162.144.240.123",
+        "ping1": 172.995,
+        "ping2": 164.331,
+        "ping3": 155.939
+      },
+      {
+        "host": "192.254.189.127",
+        "ip": "192.254.189.127",
+        "ping1": 152.361,
+        "ping2": 157.944,
+        "ping3": 150.134
+      }
+    ]
+  },
+  {
+    "host": "www.bbc.co.uk",
+    "ip": "212.58.246.54",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.141,
+        "ping2": 0.129,
+        "ping3": 0.161
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.684,
+        "ping2": 0.667,
+        "ping3": 0.666
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.188,
+        "ping2": 1.373,
+        "ping3": 1.262
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 0.903,
+        "ping2": 0.903,
+        "ping3": 0.892
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 1.964,
+        "ping2": 1.95,
+        "ping3": 1.94
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 4.447,
+        "ping2": 4.227,
+        "ping3": 4.248
+      },
+      {
+        "host": "ae30.londtw-sbr2.ja.net",
+        "ip": "146.97.33.6",
+        "ping1": 4.705,
+        "ping2": 4.696,
+        "ping3": 4.624
+      },
+      {
+        "host": "ae29.londtn-sbr1.ja.net",
+        "ip": "146.97.33.10",
+        "ping1": 4.741,
+        "ping2": 4.783,
+        "ping3": 4.758
+      },
+      {
+        "host": "ae0.londtn-ban1.ja.net",
+        "ip": "146.97.35.210",
+        "ping1": 4.653,
+        "ping2": 4.656,
+        "ping3": 4.699
+      },
+      {
+        "host": "bbc.lond-ban4.ja.net",
+        "ip": "193.62.157.178",
+        "ping1": 4.749,
+        "ping2": 4.783,
+        "ping3": 4.809
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "ae0.er01.cwwtf.bbc.co.uk",
+        "ip": "132.185.254.93",
+        "ping1": 6.12,
+        "ping2": 6.024,
+        "ping3": 6.049
+      },
+      {
+        "host": "132.185.255.165",
+        "ip": "132.185.255.165",
+        "ping1": 12.762,
+        "ping2": 12.745,
+        "ping3": 11.64
+      },
+      {
+        "host": "bbc-vip045.cwwtf.bbc.co.uk",
+        "ip": "212.58.246.54",
+        "ping1": 5.548,
+        "ping2": 5.585,
+        "ping3": 5.657
+      }
+    ]
+  },
+  {
+    "host": "www.bbc.in",
+    "ip": "67.199.248.13",
+    "hops": [
+      {
+        "host": "fire-private.cs.bath.ac.uk",
+        "ip": "172.16.0.1",
+        "ping1": 0.172,
+        "ping2": 0.17,
+        "ping3": 0.165
+      },
+      {
+        "host": "gw-palo.cs.bath.ac.uk",
+        "ip": "138.38.108.254",
+        "ping1": 0.719,
+        "ping2": 0.719,
+        "ping3": 0.714
+      },
+      {
+        "host": "bath-gw-1-palo.bath.ac.uk",
+        "ip": "193.63.64.174",
+        "ping1": 1.212,
+        "ping2": 1.312,
+        "ping3": 1.481
+      },
+      {
+        "host": "xe-1-2-0.bathub-rbr1.ja.net",
+        "ip": "146.97.144.33",
+        "ping1": 1.035,
+        "ping2": 1.03,
+        "ping3": 1.02
+      },
+      {
+        "host": "xe-1-2-0.briswe-rbr1.ja.net",
+        "ip": "146.97.67.65",
+        "ping1": 2.041,
+        "ping2": 2.04,
+        "ping3": 2.036
+      },
+      {
+        "host": "ae22.londpg-sbr2.ja.net",
+        "ip": "146.97.37.201",
+        "ping1": 6.854,
+        "ping2": 5.801,
+        "ping3": 5.848
+      },
+      {
+        "host": "ae30.londtw-sbr2.ja.net",
+        "ip": "146.97.33.6",
+        "ping1": 6.576,
+        "ping2": 4.951,
+        "ping3": 4.915
+      },
+      {
+        "host": "ae29.londtn-sbr1.ja.net",
+        "ip": "146.97.33.10",
+        "ping1": 4.743,
+        "ping2": 19.868,
+        "ping3": 4.703
+      },
+      {
+        "host": "ae0.londtn-ban3.ja.net",
+        "ip": "146.97.35.170",
+        "ping1": 5.024,
+        "ping2": 4.958,
+        "ping3": 4.927
+      },
+      {
+        "host": "akamai.prolexic.com",
+        "ip": "195.66.224.31",
+        "ping1": 6.308,
+        "ping2": 6.677,
+        "ping3": 6.652
+      },
+      {
+        "host": "unknown.prolexic.com",
+        "ip": "72.52.60.200",
+        "ping1": 5.79,
+        "ping2": 5.864,
+        "ping3": 5.759
+      },
+      {
+        "host": "unknown.prolexic.com",
+        "ip": "72.52.60.197",
+        "ping1": 9.001,
+        "ping2": 9.151,
+        "ping3": 8.604
+      },
+      {
+        "host": "*",
+        "ip": "*",
+        "ping1": 0,
+        "ping2": 0,
+        "ping3": 0
+      },
+      {
+        "host": "unknown.prolexic.com",
+        "ip": "209.200.160.218",
+        "ping1": 79.37,
+        "ping2": 79.108,
+        "ping3": 83.537
+      },
+      {
+        "host": "ae6.cbs01.eq01.wdc02.networklayer.com",
+        "ip": "50.97.17.146",
+        "ping1": 85.606,
+        "ping2": 81.399,
+        "ping3": 85.709
+      },
+      {
+        "host": "e9.11.6132.ip4.static.sl-reverse.com",
+        "ip": "50.97.17.233",
+        "ping1": 79.392,
+        "ping2": 83.675,
+        "ping3": 83.845
+      },
+      {
+        "host": "87.76.37a9.ip4.static.sl-reverse.com",
+        "ip": "169.55.118.135",
+        "ping1": 79.789,
+        "ping2": 79.875,
+        "ping3": 79.884
+      },
+      {
+        "host": "67.199.248.13",
+        "ip": "67.199.248.13",
+        "ping1": 80.969,
+        "ping2": 81.004,
+        "ping3": 81.198
+      }
+    ]
+  }
+]

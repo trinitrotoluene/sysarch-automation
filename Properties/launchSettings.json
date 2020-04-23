@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sysarch-automation": {
+      "commandName": "Project",
+      "commandLineArgs": "viewstats -f finalResults.2.json"
+    }
+  }
+}

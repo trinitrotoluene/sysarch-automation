@@ -1,0 +1,575 @@
+{
+  "e9.11.6132.ip4.static.sl-reverse.com": {
+    "orgName": "Not Disclosed",
+    "countryCode": "US"
+  },
+  "ae6.cbs01.eq01.wdc02.networklayer.com": {
+    "orgName": "DNStination Inc.",
+    "countryCode": "US"
+  },
+  "ae1.brisub-rbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "university-of-bristol.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "unknown.prolexic.com": {
+    "orgName": "Akamai Technologies, inc.",
+    "countryCode": "US"
+  },
+  "ae31.erdiss-sbr2.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ae30.lowdss-sbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "akamai.prolexic.com": {
+    "orgName": "Akamai Technologies, inc.",
+    "countryCode": "US"
+  },
+  "University-of-Cambridge.cambab-rbr1.eastern.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "www.bbc.in": {
+    "orgName": "British Broadcasting Corporation",
+    "countryCode": "GB"
+  },
+  "bbc-vip045.cwwtf.bbc.co.uk": null,
+  "132.185.255.165": {
+    "orgName": "BBC",
+    "countryCode": "GB"
+  },
+  "ae0.er01.cwwtf.bbc.co.uk": null,
+  "bbc.lond-ban4.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ae19.readdy-rbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ae2.oxfoii-rbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ae3.oxforq-rbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "oxford-university.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ae0.londtn-ban1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "192.254.189.127": {
+    "orgName": "WEBSITEWELCOME.COM",
+    "countryCode": "US"
+  },
+  "162-144-240-123.unifiedlayer.com": {
+    "orgName": "REDACTED FOR PRIVACY",
+    "countryCode": "US"
+  },
+  "ae29.leedaq-sbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "eastman.leedaq-sbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "162-144-240-153.unifiedlayer.com": {
+    "orgName": "REDACTED FOR PRIVACY",
+    "countryCode": "US"
+  },
+  "ae-0.endurance.snjsca04.us.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "ae-45.r01.snjsca04.us.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "ae-3.r23.snjsca04.us.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "ae-0.r21.sttlwa01.us.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "canarie.lon.uk.geant.net": {
+    "orgName": "Statutory Masking Enabled",
+    "countryCode": "NL"
+  },
+  "ae-2.r20.sttlwa01.us.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "ae-5.r24.nycmny01.us.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "ae-3.r24.londen12.uk.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "ldn-bb2-link.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "ec2-50-112-196-159.us-west-2.compute.amazonaws.com": {
+    "orgName": "Amazon.com, Inc.",
+    "countryCode": "US"
+  },
+  "amazon-ic-307564-sea-b1.c.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "sea-b1-link.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "nyk-bb4-link.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "nyk-bb1-link.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "channel4.com": {
+    "orgName": "Channel Four Television Corporation",
+    "countryCode": "GB"
+  },
+  "rackspace-ic-134354-chi-b21.c.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "83.98.0.83": {
+    "orgName": "IOKONET1",
+    "countryCode": "GB"
+  },
+  "coreb-core2.ord1.rackspace.net": {
+    "orgName": "Rackspace US, Inc.",
+    "countryCode": "US"
+  },
+  "core1-aggr601a-16.ord1.rackspace.net": {
+    "orgName": "Rackspace US, Inc.",
+    "countryCode": "US"
+  },
+  "tfm20-dist-3750e-b.ioko.net": {
+    "orgName": "Piksel",
+    "countryCode": "FR"
+  },
+  "82.112.101.98": {
+    "orgName": "VERIO-UK-INFRA",
+    "countryCode": "GB"
+  },
+  "ae-25.r00.londen10.uk.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "nyc-9208-I2-WASH.nysernet.net": {
+    "orgName": "NYSERNet, Inc.",
+    "countryCode": "US"
+  },
+  "cuny-nyc-9208.nysernet.net": {
+    "orgName": "NYSERNet, Inc.",
+    "countryCode": "US"
+  },
+  "ae-11.r02.londen03.uk.bb.gin.ntt.net": {
+    "orgName": "Contact Privacy Inc. Customer 0156807849",
+    "countryCode": "CA"
+  },
+  "ldn-b7-link.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "media-router-rc1.prod.media.vip.ir2.yahoo.com": {
+    "orgName": "Oath Inc.",
+    "countryCode": "US"
+  },
+  "UNKNOWN-77-238-186-X.yahoo.com": {
+    "orgName": "Oath Inc.",
+    "countryCode": "US"
+  },
+  "et-11-1-0.msr1.ir2.yahoo.com": {
+    "orgName": "Oath Inc.",
+    "countryCode": "US"
+  },
+  "ae6.pat2.iry.yahoo.com": {
+    "orgName": "Oath Inc.",
+    "countryCode": "US"
+  },
+  "ge-1-1-0.pat1.the.yahoo.com": {
+    "orgName": "Oath Inc.",
+    "countryCode": "US"
+  },
+  "ae0.londtn-ban3.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ae29.londtn-sbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ae30.londtw-sbr2.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "lax17s15-in-f14.1e100.net": {
+    "orgName": "Google Inc.",
+    "countryCode": "US"
+  },
+  "108.170.237.113": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "108.170.247.193": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "209.85.247.0": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "216.239.49.14": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "209.85.251.139": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "72.14.232.70": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "209.85.253.248": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "216.239.42.223": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "www.ucsb.edu": {
+    "orgName": "University of California, Santa Barbara\nETS Network \u0026 Communications Services",
+    "countryCode": "US"
+  },
+  "www6.test.utah.edu": {
+    "orgName": "University of Utah\n102 S. 200 E",
+    "countryCode": "US"
+  },
+  "155.99.130.107": {
+    "orgName": "University of Utah",
+    "countryCode": "US"
+  },
+  "155.99.130.57": {
+    "orgName": "University of Utah",
+    "countryCode": "US"
+  },
+  "216.239.58.3": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "216.239.59.169": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "lhr25s10-in-f163.1e100.net": {
+    "orgName": "Google Inc.",
+    "countryCode": "US"
+  },
+  "108.170.232.97": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "lhr25s01-in-f4.1e100.net": {
+    "orgName": "Google Inc.",
+    "countryCode": "US"
+  },
+  "140.197.253.139": {
+    "orgName": "Utah Education Network",
+    "countryCode": "US"
+  },
+  "216.239.57.115": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "140.197.253.23": {
+    "orgName": "Utah Education Network",
+    "countryCode": "US"
+  },
+  "198.71.45.231": {
+    "orgName": "Internet2",
+    "countryCode": "US"
+  },
+  "et-4-1-0.4070.rtsw.salt.net.internet2.edu": {
+    "orgName": "Internet2",
+    "countryCode": "US"
+  },
+  "et-5-0-0.4070.rtsw.kans.net.internet2.edu": {
+    "orgName": "Internet2",
+    "countryCode": "US"
+  },
+  "et-7-1-0.4070.rtsw.chic.net.internet2.edu": {
+    "orgName": "Internet2",
+    "countryCode": "US"
+  },
+  "www.utah.edu": {
+    "orgName": "University of Utah\n102 S. 200 E",
+    "countryCode": "US"
+  },
+  "web.cuny.edu": {
+    "orgName": "City University of New York",
+    "countryCode": "US"
+  },
+  "www.cuny.edu": {
+    "orgName": "City University of New York",
+    "countryCode": "US"
+  },
+  "www.google.com": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "108.170.246.161": {
+    "orgName": "Google LLC",
+    "countryCode": "US"
+  },
+  "193.62.157.22": {
+    "orgName": "JANET-NOC",
+    "countryCode": "GB"
+  },
+  "www.viu.ca": {
+    "orgName": "Vancouver Island University",
+    "countryCode": "CA"
+  },
+  "132.181.106.1": null,
+  "h77.gpvpn.ucalgary.ca": {
+    "orgName": "University of Calgary",
+    "countryCode": "CA"
+  },
+  "cgy-mx-r.cybera.ca": {
+    "orgName": "Cybera Inc.",
+    "countryCode": "CA"
+  },
+  "132.181.3.236": null,
+  "lax17s15-in-f78.1e100.net": {
+    "orgName": "Google Inc.",
+    "countryCode": "US"
+  },
+  "clgr2rtr1.canarie.ca": {
+    "orgName": "CANARIE Inc.",
+    "countryCode": "CA"
+  },
+  "wnpg1rtr1.canarie.ca": {
+    "orgName": "CANARIE Inc.",
+    "countryCode": "CA"
+  },
+  "www.ucalgary.ca": {
+    "orgName": "University of Calgary",
+    "countryCode": "CA"
+  },
+  "edwc.is.ed.ac.uk": {
+    "orgName": "The University of Edinburgh",
+    "countryCode": "GB"
+  },
+  "vlan687.kb9.net.ed.ac.uk": {
+    "orgName": "The University of Edinburgh",
+    "countryCode": "GB"
+  },
+  "www.ed.ac.uk": {
+    "orgName": "The University of Edinburgh",
+    "countryCode": "GB"
+  },
+  "aurochs-web-154.nsms.ox.ac.uk": {
+    "orgName": "University of Oxford\nUniversity of Oxford\nUniversity of Oxford\nDomain Registration\nIT Services, University of Oxford",
+    "countryCode": "GB"
+  },
+  "lompi1-boucs.sdc.ox.ac.uk": {
+    "orgName": "University of Oxford\nUniversity of Oxford\nUniversity of Oxford\nDomain Registration\nIT Services, University of Oxford",
+    "countryCode": "GB"
+  },
+  "www.ox.ac.uk": {
+    "orgName": "University of Oxford\nUniversity of Oxford\nUniversity of Oxford\nDomain Registration\nIT Services, University of Oxford",
+    "countryCode": "GB"
+  },
+  "primary.admin.cam.ac.uk": {
+    "orgName": "The University of Cambridge\nUniversity of Cambridge\nJisc Services Limited\nCambridge Hostmaster\nCambridge University Information Services\nRoger Needham Building",
+    "countryCode": "GB"
+  },
+  "202.36.179.100": {
+    "orgName": "CCOE-NZ",
+    "countryCode": "NZ"
+  },
+  "link-srv.uis.fw-srv.net.cam.ac.uk": {
+    "orgName": "The University of Cambridge\nUniversity of Cambridge\nJisc Services Limited\nCambridge Hostmaster\nCambridge University Information Services\nRoger Needham Building",
+    "countryCode": "GB"
+  },
+  "210.7.37.210": null,
+  "210.7.37.209": null,
+  "et-1-0-0-202.and12-nsh.reannz.co.nz": null,
+  "et-1-0-0.pe1.tkpa.akl.aarnet.net.au": null,
+  "et-1-2-1.pe1.a.koa.aarnet.net.au": null,
+  "aarnet-1-lo-jmb-702.lsanca.pacificwave.net": {
+    "orgName": "Pacific Northwest Gigapop",
+    "countryCode": "US"
+  },
+  "web00.its.hawaii.edu": {
+    "orgName": "University of Hawaii",
+    "countryCode": "US"
+  },
+  "pat01.its.hawaii.edu": {
+    "orgName": "University of Hawaii",
+    "countryCode": "US"
+  },
+  "vl-669-xe-1-0-10-10gigcolol3.uhnet.net": {
+    "orgName": "University of Hawaii",
+    "countryCode": "US"
+  },
+  "xe-1-1-0-64-kolanut-re0.uhnet.net": {
+    "orgName": "University of Hawaii",
+    "countryCode": "US"
+  },
+  "xe-0-0-0-3510-poha-re0.uhnet.net": {
+    "orgName": "University of Hawaii",
+    "countryCode": "US"
+  },
+  "outside.fw-srv.net.cam.ac.uk": {
+    "orgName": "The University of Cambridge\nUniversity of Cambridge\nJisc Services Limited\nCambridge Hostmaster\nCambridge University Information Services\nRoger Needham Building",
+    "countryCode": "GB"
+  },
+  "www.hawaii.edu": {
+    "orgName": "University of Hawaii",
+    "countryCode": "US"
+  },
+  "d-dw.s-dw.net.cam.ac.uk": {
+    "orgName": "The University of Cambridge\nUniversity of Cambridge\nJisc Services Limited\nCambridge Hostmaster\nCambridge University Information Services\nRoger Needham Building",
+    "countryCode": "GB"
+  },
+  "web.ucsb.edu": {
+    "orgName": "University of California, Santa Barbara\nETS Network \u0026 Communications Services",
+    "countryCode": "US"
+  },
+  "twitch.tv": {
+    "orgName": "Twitch Interactive, Inc.",
+    "countryCode": "US"
+  },
+  "574-c--r2--2.commserv.ucsb.edu": {
+    "orgName": "University of California, Santa Barbara\nETS Network \u0026 Communications Services",
+    "countryCode": "US"
+  },
+  "r2--r1--1.commserv.ucsb.edu": {
+    "orgName": "University of California, Santa Barbara\nETS Network \u0026 Communications Services",
+    "countryCode": "US"
+  },
+  "ucsb--lax-hpr3-100ge.cenic.net": {
+    "orgName": "CENIC",
+    "countryCode": "US"
+  },
+  "137.164.26.200": {
+    "orgName": "CENIC",
+    "countryCode": "US"
+  },
+  "et-7-1-0.4070.rtsw.losa.net.internet2.edu": {
+    "orgName": "Internet2",
+    "countryCode": "US"
+  },
+  "et-10-2-0.105.rtr.hous.net.internet2.edu": {
+    "orgName": "Internet2",
+    "countryCode": "US"
+  },
+  "et-7-3-0.4072.rtsw.atla.net.internet2.edu": {
+    "orgName": "Internet2",
+    "countryCode": "US"
+  },
+  "199.104.93.102": null,
+  "199.104.93.117": null,
+  "internet2-gw.mx1.lon.uk.geant.net": {
+    "orgName": "Statutory Masking Enabled",
+    "countryCode": "NL"
+  },
+  "162.209.41.125": null,
+  "173.203.0.131": null,
+  "chi-b21-link.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "ldn-bb3-link.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "146.97.65.106": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "146.97.38.10": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ldn-b3-link.telia.net": {
+    "orgName": "TeliaSonera AB",
+    "countryCode": "SE"
+  },
+  "ae0.londhx-ban2.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "www.cam.ac.uk": {
+    "orgName": "The University of Cambridge\nUniversity of Cambridge\nJisc Services Limited\nCambridge Hostmaster\nCambridge University Information Services\nRoger Needham Building",
+    "countryCode": "GB"
+  },
+  "janet.mx1.lon.uk.geant.net": {
+    "orgName": "Statutory Masking Enabled",
+    "countryCode": "NL"
+  },
+  "ae29.londhx-sbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "ae22.londpg-sbr2.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "xe-1-2-0.briswe-rbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "xe-1-2-0.bathub-rbr1.ja.net": {
+    "orgName": "Jisc Services Limited",
+    "countryCode": "GB"
+  },
+  "bath-gw-1-palo.bath.ac.uk": {
+    "orgName": "The University of Bath",
+    "countryCode": "GB"
+  },
+  "gw-palo.cs.bath.ac.uk": {
+    "orgName": "The University of Bath",
+    "countryCode": "GB"
+  },
+  "fire-private.cs.bath.ac.uk": {
+    "orgName": "The University of Bath",
+    "countryCode": "GB"
+  },
+  "www.bris.ac.uk": {
+    "orgName": "University of Bristol",
+    "countryCode": "GB"
+  },
+  "87.76.37a9.ip4.static.sl-reverse.com": {
+    "orgName": "Not Disclosed",
+    "countryCode": "US"
+  },
+  "67.199.248.13": {
+    "orgName": "Bitly Inc",
+    "countryCode": "US"
+  }
+}
